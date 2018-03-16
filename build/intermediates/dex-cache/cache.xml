@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.android/build-cache/ed31f9044ec594d6273ea44ca3d2bc450e846768/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fdffea03a90c6b623dc5b5b10fe067cfd3048715">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/androidTest/debug/classes_37d752a27bca13ac38666c4b73e47d7fadf0ac67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12_d5ae81b1a272f28e8bc832302645ba43895734db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio 2.app/Contents/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ccbc77a5fd907ef863c29f3596c6f54ffa4e9442">
+        <dex dex="/Users/niranjani/Documents/UpdatedResume/Livepresso/app/build/intermediates/pre-dexed/androidTest/debug/kxml2-2.3.0_f2097afc7e76a0f9d540ff9dbdbb2055b94c49ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.android/build-cache/9d6a59a286507a57fd76f628672f8edca3650d64/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/debug/classes_3496a873cf8461841a69b0ec6a4e853343935875.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.android/build-cache/c1164dba60802f48e33bd35fe06d65da19d55d39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/debug/classes_1c14c723b3321a165f140604d937c3f9440e8607.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.android/build-cache/d37a3090525b562e35769253835dbfeeeb37b20b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="94d358351559620a2c3d2ba3ac04d03a59a61bb3">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/debug/classes_e9504537ae81fd137bfe4c8e83c7fa4cab2dd35d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3_a15cca6bdc6954a66e30c387fea63ad173852efd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.android/build-cache/d1992945467b2c42a2376bcf2fdda21b8a99b011/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="df0c541b5406292d1c3d74fc8ea119bde14e77b0">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/debug/classes_725add4260d80201a4a64f2edfea39ef39f0738c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.android/build-cache/58366198c49c77c6842a53f2b086674a31f77b4a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53762fb1daacc5e5fb9ce83c4d00365f71c10f1a">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/debug/classes_743a12549bcd9b140792d9486a7275170ab1d89b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3_9fbb9463f4dae92a7e0beec47b1a9827b20d4866.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.android/build-cache/bdcd74631a9bf00fc253d74bf095e9321cc14464/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1059f32e7de57a16774d7f05b059d978c4ec4c91">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/androidTest/debug/classes_a089db7e84ca6a04cdd8cfe360b81fdaeb4eed50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.android/build-cache/d7b80cbb810a3e4ae5f88fc0e8491416e8123cdc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/debug/classes_7ded5325fd77df9c8e65b6519ef6e73a42cc0877.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.android/build-cache/c1b320d3bedb68b384172ffa7dfdc73127f5cfa1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b0cc52f82a38613739bfded911ca385b75ff504f">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/androidTest/debug/classes_f6dcba6f5991073efa0b32112d82b7cae989a816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.android/build-cache/63b9509a18d2ccf192311787818bb8cbb9c7f2da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a6295621aab3a37ea2500e9e1a2829175313372c">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/androidTest/debug/classes_7c4fa8e4d60e4f99231ac2227a8be42386cbb691.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1_ede297c8e7f8e1c90e326c95410486c9a882f5b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.android/build-cache/8d05bf88f48345b3f83b28d76e331552d3136602/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/debug/classes_0db6969168bf3f50e112619d9f8e8b670e6fcee2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.android/build-cache/b45bb1d1fafcbe38aabd7ac275b97191311c2e4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/debug/classes_ae7c60750c21158a2a44834a4086c31b9f8b494a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.android/build-cache/1099bf92965a941697b5bdde16e0247028532814/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/debug/classes_97e13b59680f9c7d86f6aafe086a68fa33d3e5d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ccbc77a5fd907ef863c29f3596c6f54ffa4e9442">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/androidTest/debug/kxml2-2.3.0_7bbb7a9f85c3645a04bf238565f550284e5daff2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.android/build-cache/5108856dee009a2fbdc4cba41ea4e530f897ac93/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/debug/classes_a828db2e56ee3e9d159bc220119553303afcc8b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_5a9c81666b00669c2ae59cc028916dbb2d3146ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.android/build-cache/a5a38e55125ff2b9e881fd826f46757f78d67004/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/debug/classes_acc7eccd4db8e03037290a4ff68e366a3902ecc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.2/8b68a849722b44f584e2d68c451c5e3844c10380/support-annotations-26.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.2_82a4346d202a15230498af440c930a6fe63c5e7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3_fc263d8d4e441105a22318a47690b992efa5f7c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1_e029f04a172ce40e68c4b123d877d403fc1a97cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.android/build-cache/cc447d30c8eda5c43d67811fad516fa9625a4a80/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f42cd459be08d98d05abb5f5361d057726e8f126">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/androidTest/debug/classes_f5008e1133725a2c09997b5a607193e5dc76f31c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niranjani/.android/build-cache/81dcbd60cf8f51df58e7f2a3e2a14cf56587eb9a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="/Users/niranjani/Downloads/Livepresso/app/build/intermediates/pre-dexed/debug/classes_c0407d53dd766c0b4a90f0b71e2507f0b7e7fb07.jar" />
+    </item>
+
+</items>
